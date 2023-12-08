@@ -1,0 +1,28 @@
+body{
+    background-image: url(img/casinha.png);
+}
+h2{
+    color:rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+section{
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: 10% 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    box-shadow:16px 16px 16px 5px black;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+li{
+    color:white;
+    font-weight: bold ;
+}
+
+h2{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

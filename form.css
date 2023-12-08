@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/brilhinhos.jpg);
+}
+h1{
+    color:rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.login-form {
+    background-color:rgba(255, 255, 255, 0.144);
+    border-radius: 20px;
+}
+

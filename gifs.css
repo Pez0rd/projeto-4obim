@@ -1,0 +1,18 @@
+div.box{
+    float: left;
+    margin: 70px 70px 70px 70px;
+}
+h2{
+    text-align: center;
+}
+a{
+    color:rgb(255, 255, 255); 
+    font-size: 17px;
+    font-weight: bold;
+}
+li {
+    color: white;
+}
+body {
+    background-color: rgb(56, 55, 55);
+}

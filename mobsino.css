@@ -1,0 +1,64 @@
+@media only screen and (max-width: 992px) {
+    tbody {
+    width: 100%;
+    height: auto;
+    font-size: 12px;
+    }
+    table{
+        margin: 90px;
+    }
+
+}   
+
+td, th {
+    border: 4px solid black;
+}
+table{
+    border: 4px solid black;
+    border-collapse: collapse;
+    margin: 20px 150px 20px 150px;
+    background-color: rgb(255,255,255);
+}
+img {
+    text-align: center;
+}
+div {
+    text-align: center;
+    background-color: white;
+    color: white;
+}
+th{
+    color: rgb(15, 32, 15);
+    background-color: rgb(70, 97, 70);
+}
+body{
+    background-color: white;
+}
+div.tamanho{
+    margin:100px 1px 100px 1px
+}
+h1{
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+body{
+    background-image: url(img/fundo4.png);
+    background-size:auto;
+}
+a{
+    font-size: 20px;
+    color: rgb(255, 60, 0);
+}
+.fds:hover{
+    background-color: rgb(93, 148, 91);
+}
+.um{
+    border: 2px solid black;
+    background-color: aliceblue ;
+    font-style:italic;
+    box-shadow:16px 16px 16px 5px black;
+    margin: 30px 100px 30px 100px;
+}
+.white {
+    color:white
+}

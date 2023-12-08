@@ -1,0 +1,63 @@
+@media only screen and (max-width: 992px) {
+    table {
+    width: 100%;
+    }
+}
+
+th, td {
+    border: 5px solid rgb(0, 0, 0);
+}
+table{
+    margin: 10% 10%;
+    background-color: rgb(255,255,255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color:aliceblue;
+}
+body{
+    background-image: url(img/fundo6.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.fds:hover{
+    background-color: rgb(197, 140, 230);
+}
+ol, ul{
+    color: rgb(0, 0, 0);
+}
+h1 {
+    color:yellow;
+}
+h5 {
+    color: rgb(0, 168, 247);
+}
+a {
+    color: yellow;
+}
+.um{
+    border: 3px solid black;
+    margin: 100px 100px 100px 100px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.658);
+    box-shadow:16px 16px 16px 5px black;
+}
+.dois{
+    border: 3px solid black;
+    margin: 100px 100px 100px 100px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.651);
+    box-shadow:16px 16px 16px 5px black;
+}
+.tres{
+    border: 3px solid black;
+    margin: 100px 100px 100px 100px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.692);
+    box-shadow:16px 16px 16px 5px black;
+}
+.white {
+    color:white
+}
